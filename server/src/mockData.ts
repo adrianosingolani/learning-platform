@@ -26,7 +26,7 @@ export const mockTrainings: Record<string, Training> = {
   "training-1": {
     id: "training-1",
     title: "Security Awareness 2024",
-    pdfUrl: "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf", // Placeholder
+    pdfUrl: "/training-security-2024.pdf",
     questions: [
       {
         id: "q1",
